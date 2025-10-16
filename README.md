@@ -11,7 +11,9 @@ Supports multiple Nuernberg Messe trade fair websites with a consistent HTML str
 
 ## 🔎 Testing Exhibitor List URLs for FREE
 
-Use [**Exhibitor List Scrapers Router & URL Tester**](https://apify.com/skython/exhibitor-list-scrapers-router) actor to test your exhibitor list URLs **for FREE** and see which scraper can process them.
+- Since I have multiple exhibitor list scraper actors for different types of trade event websites, it might be hard to find the correct actor for your exhibitor list URL.
+
+- Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor to test your exhibitor list URLs **for FREE** and see which scraper can process them.
 
 
 ## 👇 Check My Other Exhibitor List Scrapers
@@ -32,6 +34,8 @@ Use [**Exhibitor List Scrapers Router & URL Tester**](https://apify.com/skython/
 
 - [Xporience Exhibitor List Scraper V2](https://apify.com/skython/xporience-exhibitor-list-scraper-2)
 
+- [GSMA MWC Exhibitor List Scraper](https://apify.com/skython/gsma-mwc-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
@@ -39,7 +43,7 @@ Use [**Exhibitor List Scrapers Router & URL Tester**](https://apify.com/skython/
 
 - Take a look at some of the event websites from the below list. Your event website URL might be in that list.
 
-- If you are not sure about if this actor is capable of scraping your event URL, test it with [**Exhibitor List Scrapers Router & URL Tester**](https://apify.com/skython/exhibitor-list-scrapers-router) actor.
+- If you are not sure about if this actor is capable of scraping your event URL, test it with [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor.
 
 
 ## 🌐 Supported Nuernberg Messe Events (Exhibitor Lists)
@@ -77,3 +81,7 @@ Use [**Exhibitor List Scrapers Router & URL Tester**](https://apify.com/skython/
 - [PERIMETER PROTECTION 2024 Exhibitor List](https://www.perimeter-protection.de/en/exhibitors-products/find-exhibitors)
 
 - [POWTECH TECHNOPHARM 2025 Exhibitor List](https://www.powtech-technopharm.com/en/exhibitors-products/find-exhibitors)
+
+- [HEAT PUMP SUMMIT 2025 Exhibitor List](https://www.hp-summit.de/en/exhibitors-products/find-exhibitors)
+
+- [CHILLVENTA 2024 Exhibitor List](https://www.chillventa.de/en/exhibitors-products/find-exhibitors)
