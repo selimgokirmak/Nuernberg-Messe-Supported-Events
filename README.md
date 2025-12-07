@@ -56,38 +56,38 @@ Supports multiple Nuernberg Messe trade fair websites with a consistent HTML str
 
 **Note:** *The following partial list includes Nuernberg Messe exhibitor directory URLs that have been tested so far. Other Nuernberg Messe or different events with the same website structure may also be supported.*
 
-- [ALTEN PFLEGE 2026 Exhibitor List - altenpflege-messe.de](https://altenpflege-messe.de/en/exhibitors-products/find-exhibitors)
+- [ALTEN PFLEGE 2026 Exhibitor List – altenpflege-messe.de](https://altenpflege-messe.de/en/exhibitors-products/find-exhibitors)
 
-- [BERUFS-BILDUNG 2025 Exhibitor List - berufsbildung-messe.de](https://berufsbildung-messe.de/de-de/aussteller-produkte/aussteller-finden)
+- [BERUFS-BILDUNG 2025 Exhibitor List – berufsbildung-messe.de](https://berufsbildung-messe.de/de-de/aussteller-produkte/aussteller-finden)
 
-- [CONSOZIAL 2025 Exhibitor List - consozial.de](https://consozial.de/de-de/ausstellende-produkte/ausstellende-finden)
+- [CONSOZIAL 2025 Exhibitor List – consozial.de](https://consozial.de/de-de/ausstellende-produkte/ausstellende-finden)
 
-- [embedded world 2026 Exhibitor List - embedded-world.de](https://embedded-world.de/en/exhibitors-products/find-exhibitors)
+- [embedded world 2026 Exhibitor List – embedded-world.de](https://embedded-world.de/en/exhibitors-products/find-exhibitors)
 
-- [ENFORCE TAC 2026 Exhibitor List - enforcetac.com](https://enforcetac.com/en/exhibitors-products/find-exhibitors)
+- [ENFORCE TAC 2026 Exhibitor List – enforcetac.com](https://enforcetac.com/en/exhibitors-products/find-exhibitors)
 
-- [EUROGUSS 2026 Exhibitor List - euroguss.de](https://euroguss.de/en/exhibitors-products/find-exhibitors)
+- [EUROGUSS 2026 Exhibitor List – euroguss.de](https://euroguss.de/en/exhibitors-products/find-exhibitors)
 
-- [FACHPACK 2025 Exhibitor List - fachpack.de](https://fachpack.de/en/exhibitors-products/find-exhibitors)
+- [FACHPACK 2025 Exhibitor List – fachpack.de](https://fachpack.de/en/exhibitors-products/find-exhibitors)
 
-- [FENSTERBAU FRONTALE 2026 Exhibitor List - frontale.de](https://frontale.de/en/exhibitors-products/find-exhibitors)
+- [FENSTERBAU FRONTALE 2026 Exhibitor List – frontale.de](https://frontale.de/en/exhibitors-products/find-exhibitors)
 
-- [GaLaBau 2024 Exhibitor List - galabau-messe.com](https://galabau-messe.com/en/exhibitors-products/find-exhibitors)
+- [GaLaBau 2024 Exhibitor List – galabau-messe.com](https://galabau-messe.com/en/exhibitors-products/find-exhibitors)
 
-- [HOLZ-HANDWERK 2026 Exhibitor List - holz-handwerk.de](https://holz-handwerk.de/en/exhibitors-products/find-exhibitors)
+- [HOLZ-HANDWERK 2026 Exhibitor List – holz-handwerk.de](https://holz-handwerk.de/en/exhibitors-products/find-exhibitors)
 
-- [Interzoo 2026 Exhibitor List - interzoo.com](https://interzoo.com/en/exhibitors-products/find-exhibitors)
+- [Interzoo 2026 Exhibitor List – interzoo.com](https://interzoo.com/en/exhibitors-products/find-exhibitors)
 
-- [itsa 365 2025 Exhibitor List - itsa365.de](https://itsa365.de/en/companies/find-companies)
+- [itsa 365 2025 Exhibitor List – itsa365.de](https://itsa365.de/en/companies/find-companies)
 
-- [IWA OUTDOOR CLASSICS 2026 Exhibitor List - iwa.info](https://iwa.info/en/exhibitors-products/find-exhibitors)
+- [IWA OUTDOOR CLASSICS 2026 Exhibitor List – iwa.info](https://iwa.info/en/exhibitors-products/find-exhibitors)
 
-- [KOMMUNALE 2025 Exhibitor List - kommunale.de](https://kommunale.de/de-de/aussteller-produkte/aussteller-finden)
+- [KOMMUNALE 2025 Exhibitor List – kommunale.de](https://kommunale.de/de-de/aussteller-produkte/aussteller-finden)
 
-- [PERIMETER PROTECTION 2024 Exhibitor List - perimeter-protection.de](https://perimeter-protection.de/en/exhibitors-products/find-exhibitors)
+- [PERIMETER PROTECTION 2024 Exhibitor List – perimeter-protection.de](https://perimeter-protection.de/en/exhibitors-products/find-exhibitors)
 
-- [POWTECH TECHNOPHARM 2025 Exhibitor List - powtech-technopharm.com](https://powtech-technopharm.com/en/exhibitors-products/find-exhibitors)
+- [POWTECH TECHNOPHARM 2025 Exhibitor List – powtech-technopharm.com](https://powtech-technopharm.com/en/exhibitors-products/find-exhibitors)
 
-- [HEAT PUMP SUMMIT 2025 Exhibitor List - hp-summit.de](https://hp-summit.de/en/exhibitors-products/find-exhibitors)
+- [HEAT PUMP SUMMIT 2025 Exhibitor List – hp-summit.de](https://hp-summit.de/en/exhibitors-products/find-exhibitors)
 
-- [CHILLVENTA 2024 Exhibitor List - chillventa.de](https://chillventa.de/en/exhibitors-products/find-exhibitors)
+- [CHILLVENTA 2024 Exhibitor List – chillventa.de](https://chillventa.de/en/exhibitors-products/find-exhibitors)
