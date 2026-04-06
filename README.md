@@ -1,12 +1,12 @@
-## 🤖 [Nuernberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
+## 🤖 [Nürnberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
 
-Simple web scraper for extracting exhibitor data from trade show exhibitor lists provided by **Nuernberg Messe**. 
+Simple web scraper for extracting exhibitor data from trade show exhibitor lists provided by **Nürnberg Messe**. 
 
 Easily scrape company profiles including **company details, websites, social media links, contact persons, product categories, and more**. 
 
 Ideal for **B2B lead generation, market research, event networking, and competitive analysis**. 
 
-Supports multiple **Nuernberg Messe** trade fair websites with a consistent HTML structure.
+Supports multiple **Nürnberg Messe** trade fair websites with a consistent HTML structure.
 
 
 ## 🔎 Testing Exhibitor List URLs for FREE
@@ -26,13 +26,13 @@ Supports multiple **Nuernberg Messe** trade fair websites with a consistent HTML
 
 - [Map Your Show Exhibitor List Scraper](https://apify.com/skython/map-your-show-exhibitor-list-scraper)
 
-- [Messe Duesseldorf Exhibitor List Scraper](https://apify.com/skython/messe-duesseldorf-exhibitor-list-scraper)
+- [Messe Düsseldorf Exhibitor List Scraper](https://apify.com/skython/messe-duesseldorf-exhibitor-list-scraper)
 
 - [Xporience Exhibitor List Scraper](https://apify.com/skython/xporience-exhibitor-list-scraper)
 
 - [Reed Expo Exhibitor List Scraper](https://apify.com/skython/reed-expo-exhibitor-list-scraper)
 
-- [Messe Muenchen Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
+- [Messe München Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
 
 - [Xporience Exhibitor List Scraper V2](https://apify.com/skython/xporience-exhibitor-list-scraper-2)
 
@@ -54,19 +54,21 @@ Supports multiple **Nuernberg Messe** trade fair websites with a consistent HTML
 
 - [A2Z Events Exhibitor List Scraper](https://apify.com/skython/a2z-events-exhibitor-list-scraper)
 
+- [Deutsche Messe Exhibitor List Scraper](https://apify.com/skython/deutsche-messe-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
-- This scraper is designed to extract data from exhibitor directories with the same HTML structure as the supported Nuernberg Messe exhibitor lists below.
+- This scraper is designed to extract data from exhibitor directories with the same HTML structure as the supported Nürnberg Messe exhibitor lists below.
 
 - Take a look at some of the event websites from the below list. Your event website URL might be in that list.
 
 - If you are not sure about if this actor is capable of scraping your event URL, test it with [**Exhibitor List Scrapers URL Tester**](https://apify.com/skython/exhibitor-list-scrapers-router) actor.
 
 
-## 🌐 Supported Nuernberg Messe Events (Exhibitor Lists)
+## 🌐 Supported Nürnberg Messe Events (Exhibitor Lists)
 
-**Note:** *The following partial list includes Nuernberg Messe exhibitor directory URLs that have been tested so far. Other Nuernberg Messe or different events with the same website structure may also be supported.*
+**Note:** *The following partial list includes Nürnberg Messe exhibitor directory URLs that have been tested so far. Other Nürnberg Messe or different events with the same website structure may also be supported.*
 
 - [ALTEN PFLEGE 2026 Exhibitor List – altenpflege-messe.de](https://altenpflege-messe.de/en/exhibitors-products/find-exhibitors)
 
