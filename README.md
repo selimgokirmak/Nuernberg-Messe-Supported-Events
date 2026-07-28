@@ -80,41 +80,39 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 
 > Some event URLs may have been updated or canceled entirely; please check them before using.
 
-- [ALTEN PFLEGE 2026 Exhibitor List – altenpflege-messe.de](https://altenpflege-messe.de/en/exhibitors-products/find-exhibitors)
+- [embedded world 2027 Exhibitor List – embedded-world.de](https://www.embedded-world.de/en/exhibitors-products/find-exhibitors)
 
-- [BERUFS-BILDUNG 2025 Exhibitor List – berufsbildung-messe.de](https://berufsbildung-messe.de/de-de/aussteller-produkte/aussteller-finden)
+- [PERIMETER PROTECTION 2027 Exhibitor List – perimeter-protection.de](https://www.perimeter-protection.de/en/exhibitors-products/find-exhibitors)
 
-- [embedded world 2026 Exhibitor List – embedded-world.de](https://embedded-world.de/en/exhibitors-products/find-exhibitors)
+- [IWA OUTDOOR CLASSICS 2027 Exhibitor List – iwa.info](https://www.iwa.info/en/exhibitors-products/find-exhibitors)
 
-- [ENFORCE TAC 2026 Exhibitor List – enforcetac.com](https://enforcetac.com/en/exhibitors-products/find-exhibitors)
+- [POWTECH TECHNOPHARM 2026 Exhibitor List – powtech-technopharm.com](https://www.powtech-technopharm.com/en/exhibitors-products/find-exhibitors)
 
-- [EUROGUSS 2026 Exhibitor List – euroguss.de](https://euroguss.de/en/exhibitors-products/find-exhibitors)
+- [EUROGUSS 2026 Exhibitor List – euroguss.de](https://www.euroguss.de/en/exhibitors-products/find-exhibitors)
 
-- [FENSTERBAU FRONTALE 2026 Exhibitor List – frontale.de](https://frontale.de/en/exhibitors-products/find-exhibitors)
+- [HOLZ-HANDWERK 2026 Exhibitor List – holz-handwerk.de](https://www.holz-handwerk.de/en/exhibitors-products/find-exhibitors)
 
-- [GaLaBau 2026 Exhibitor List – galabau-messe.com](https://galabau-messe.com/en/exhibitors-products/find-exhibitors)
+- [FENSTERBAU FRONTALE 2026 Exhibitor List – frontale.de](https://www.frontale.de/en/exhibitors-products/find-exhibitors)
 
-- [HOLZ-HANDWERK 2026 Exhibitor List – holz-handwerk.de](https://holz-handwerk.de/en/exhibitors-products/find-exhibitors)
+- [Interzoo 2026 Exhibitor List – interzoo.com](https://www.interzoo.com/en/exhibitors-products/find-exhibitors)
 
-- [Interzoo 2026 Exhibitor List – interzoo.com](https://interzoo.com/en/exhibitors-products/find-exhibitors)
+- [GaLaBau 2026 Exhibitor List – galabau-messe.com](https://www.galabau-messe.com/en/exhibitors-products/find-exhibitors)
 
-- [CHILLVENTA 2026 Exhibitor List – chillventa.de](https://chillventa.de/en/exhibitors-products/find-exhibitors)
+- [itsa 365 2026 Exhibitor List – itsa365.de](https://www.itsa365.de/en/companies/find-companies)
 
-- [IWA OUTDOOR CLASSICS 2026 Exhibitor List – iwa.info](https://iwa.info/en/exhibitors-products/find-exhibitors)
+- [ENFORCE TAC 2026 Exhibitor List – enforcetac.com](https://www.enforcetac.com/en/exhibitors-products/find-exhibitors)
 
-- [FACHPACK 2025 Exhibitor List – fachpack.de](https://fachpack.de/en/exhibitors-products/find-exhibitors)
+- [CHILLVENTA 2026 Exhibitor List – chillventa.de](https://www.chillventa.de/en/exhibitors-products/find-exhibitors)
 
-- [CONSOZIAL 2025 Exhibitor List – consozial.de](https://consozial.de/de-de/ausstellende-produkte/ausstellende-finden)
+- [care:xpo 2026 Exhibitor List – care-xpo.de](https://www.care-xpo.de/en/exhibitors-products/find-exhibitors)
 
-- [itsa 365 2025 Exhibitor List – itsa365.de](https://itsa365.de/en/companies/find-companies)
+- [FACHPACK 2025 Exhibitor List – fachpack.de](https://www.fachpack.de/en/exhibitors-products/find-exhibitors)
 
-- [KOMMUNALE 2025 Exhibitor List – kommunale.de](https://kommunale.de/de-de/aussteller-produkte/aussteller-finden)
+- [KOMMUNALE 2025 Exhibitor List – kommunale.de](https://www.kommunale.de/de-de/aussteller-produkte/aussteller-finden)
 
-- [POWTECH TECHNOPHARM 2025 Exhibitor List – powtech-technopharm.com](https://powtech-technopharm.com/en/exhibitors-products/find-exhibitors)
+- [CONSOZIAL 2025 Exhibitor List – consozial.de](https://www.consozial.de/de-de/ausstellende-produkte/ausstellende-finden)
 
-- [HEAT PUMP SUMMIT 2025 Exhibitor List – hp-summit.de](https://hp-summit.de/en/exhibitors-products/find-exhibitors)
-
-- [PERIMETER PROTECTION 2024 Exhibitor List – perimeter-protection.de](https://perimeter-protection.de/en/exhibitors-products/find-exhibitors)
+- [BERUFS-BILDUNG 2025 Exhibitor List – berufsbildung-messe.de](https://www.berufsbildung-messe.de/de-de/aussteller-produkte/aussteller-finden)
 
 ---
 
