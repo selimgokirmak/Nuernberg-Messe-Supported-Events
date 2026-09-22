@@ -1,10 +1,6 @@
-## 🤖 [Nürnberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
+## 🤖 [Nürnberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper) — Trade Shows, Expos, Fairs & Exhibition Directories
 
-Simple web scraper for extracting exhibitor data from trade show exhibitor lists provided by **Nürnberg Messe**. Easily scrape company profiles including **company details, websites, social media links, contact persons, product categories, and more**. 
-
-Ideal for **B2B lead generation, market research, event networking, and competitive analysis**. Supports multiple **Nürnberg Messe** trade fair websites with a consistent HTML structure.
-
-> [Apify](https://apify.com/) is a cloud platform and marketplace for web scraping and automation tools.
+Extract complete exhibitor lists from Nürnberg Messe trade shows — including Powtech, Fachpack, Embedded World, Interzoo, Euroguss, Galabau, Chillventa, Itsa 365, and more — spanning automotive, technology, energy, food & beverage, packaging, and broadcasting industries. Scrape company profiles including company details, websites, social media links, product categories, brands, and contact persons. Ideal for B2B lead generation, sales prospecting, market research, event networking, and competitive analysis.
 
 ---
 
@@ -13,8 +9,6 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 - [Features](#features)
 
 - [Use Cases](#use-cases)
-
-- [Supported Website Structure](#supported-website-structure)
 
 - [Supported Nürnberg Messe Events (Exhibitor Lists)](#supported-nürnberg-messe-events-exhibitor-lists)
 
@@ -64,27 +58,19 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 
 ---
 
-## Supported Website Structure
-
-- This scraper is designed to extract data from exhibitor directories with the same HTML structure as the supported Nürnberg Messe exhibitor lists below.
-
-- Take a look at some of the event websites from the below list. Your event website URL might be in that list.
-
-- If you are not sure about if this actor is capable of scraping your event URL, test it with [**Exhibitor List Scrapers URL Tester**](https://apify.com/skython/exhibitor-list-scrapers-router) actor.
-
----
-
 ## Supported Nürnberg Messe Events (Exhibitor Lists)
 
-> The following partial list includes Nürnberg Messe exhibitor directory URLs that have been tested so far. Other Nürnberg Messe or different events with the same website structure may also be supported.
+- The following partial list includes Nürnberg Messe exhibitor directory URLs that have been tested so far. Other Nürnberg Messe or different events with the same website structure may also be supported.
 
-> Some event URLs may have been updated or canceled entirely; please check them before using.
+- Some event URLs may have been updated or canceled entirely; please check them before using.
 
 - [embedded world 2027 Exhibitor List – embedded-world.de](https://www.embedded-world.de/en/exhibitors-products/find-exhibitors)
 
 - [PERIMETER PROTECTION 2027 Exhibitor List – perimeter-protection.de](https://www.perimeter-protection.de/en/exhibitors-products/find-exhibitors)
 
 - [IWA OUTDOOR CLASSICS 2027 Exhibitor List – iwa.info](https://www.iwa.info/en/exhibitors-products/find-exhibitors)
+
+- [ENFORCE TAC 2027 Exhibitor List – enforcetac.com](https://www.enforcetac.com/en/exhibitors-products/find-exhibitors)
 
 - [POWTECH TECHNOPHARM 2026 Exhibitor List – powtech-technopharm.com](https://www.powtech-technopharm.com/en/exhibitors-products/find-exhibitors)
 
@@ -99,8 +85,6 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 - [GaLaBau 2026 Exhibitor List – galabau-messe.com](https://www.galabau-messe.com/en/exhibitors-products/find-exhibitors)
 
 - [itsa 365 2026 Exhibitor List – itsa365.de](https://www.itsa365.de/en/companies/find-companies)
-
-- [ENFORCE TAC 2026 Exhibitor List – enforcetac.com](https://www.enforcetac.com/en/exhibitors-products/find-exhibitors)
 
 - [CHILLVENTA 2026 Exhibitor List – chillventa.de](https://www.chillventa.de/en/exhibitors-products/find-exhibitors)
 
@@ -307,3 +291,9 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 - [Comexposium Exhibitor List Scraper V2](https://apify.com/skython/comexposium-exhibitor-list-scraper-2)
 
 - [Informa Markets Exhibitor List Scraper V3](https://apify.com/skython/informa-markets-exhibitor-list-scraper-3)
+
+- [LIVEBUZZ Exhibitor List Scraper](https://apify.com/skython/livebuzz-exhibitor-list-scraper)
+
+- [ASP Events Exhibitor List Scraper](https://apify.com/skython/asp-events-exhibitor-list-scraper)
+
+- [Fortem Exhibitor List Scraper](https://apify.com/skython/fortem-exhibitor-list-scraper)
